@@ -1,4 +1,4 @@
-## cout << "问候, Fellow Programmers!";👋
+## cout << "问候,欢迎 Fellow Programmers!";👋
 🎓 Student preparing for exams in July  
 💻 Learning Python, C++, and GitHub  
 🌱 Currently building a Snake game in Python  
