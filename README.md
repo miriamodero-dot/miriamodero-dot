@@ -1,8 +1,8 @@
-## Hi there 👋
+## cout << "问候, Fellow Programmers!";👋
 🎓 Student preparing for exams in July  
 💻 Learning Python, C++, and GitHub  
 🌱 Currently building a Snake game in Python  
-🌐 Interested in AI and learning Chinese  
+🌐 Interested in AI and learning 汉语  
 
 ## 🔧 Skills
 - Python (Beginner)
