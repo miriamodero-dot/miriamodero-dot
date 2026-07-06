@@ -1,4 +1,21 @@
 ## Hi there 👋
+🎓 Student preparing for exams in July  
+💻 Learning Python, C++, and GitHub  
+🌱 Currently building a Snake game in Python  
+🌐 Interested in AI and learning Chinese  
+
+## 🔧 Skills
+- Python (Beginner)
+- C++ (Intermediate)
+- GitHub basics
+
+## 📚 Projects
+- 🐍 Snake Game with images, sound, lives, and obstacles
+- GitHub learning: branches, editing files, Codespaces
+
+## 📫 How to reach me
+- Email: miriam.odero@strathmore.edu
+
 
 <!--
 **miriamodero-dot/miriamodero-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
